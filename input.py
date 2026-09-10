@@ -1,0 +1,5 @@
+print("Hello, Zala!")
+a=input("Enter your name: ")
+print("Hello, " + a + "!")
+b = int(input("Enter a number: "))
+print("You entered:", b)
